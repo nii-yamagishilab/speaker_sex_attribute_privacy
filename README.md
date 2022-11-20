@@ -19,15 +19,6 @@ This code is adapted from [SSL-SAS](https://github.com/nii-yamagishilab/SSL-SAS/
 `bash scripts/install.sh`
 
 Make sure sox and parallel are installed. 
-
-If not: 
-
-`source env.sh`
-
-`conda install -c conda-forge sox`
-
-`conda install -c conda-forge parallel`
-
 ## 
 
 
