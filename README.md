@@ -1,14 +1,16 @@
 ## 
-This is an implementation of the papers: Hiding speaker's sex in speech using zero-evidence speaker representation in an analysis/synthesis pipeline
+This is an implementation of the papers:
+Hiding speaker's sex in speech using zero-evidence speaker representation in an analysis/synthesis pipeline
 
 The authors are Paul-Gauthier Noé, Xiaoxiao Miao, Xin Wang, Junichi Yamagishi, Jean-François Bonastre, Driss Matrouf
 
 Please cite these papers if you use this code.
 
-
-
 This code is adapted from [SSL-SAS](https://github.com/nii-yamagishilab/SSL-SAS/)
 
+Audio samples can be found here: Coming soon
+
+Pretrained models can be found here: Coming soon
 
 
 ## Dependencies
