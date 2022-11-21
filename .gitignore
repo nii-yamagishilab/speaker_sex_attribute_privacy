@@ -1,3 +1,4 @@
+*.tar.gz
 *~
 pretrained_models_anon_xv/output/*
 pretrained_models_anon_xv/HiFi-GAN/do_*
