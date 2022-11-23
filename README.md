@@ -31,7 +31,7 @@ Make sure sox and parallel are installed.
 
 
 ## Audio examples
-original | proposed | global | tdpsola | synthesised but non protected*
+original | proposed | global | TDPSOLA | synthesised but non protected*
 --- | --- | --- | --- | ---
  [ex1](https://user-images.githubusercontent.com/18285855/203569403-3f38c56f-8d26-4f82-9e9b-3a220a1126b4.mp4) | [ex1](https://user-images.githubusercontent.com/18285855/203569752-de9ec3a8-ed03-40ab-b90d-d1c8f0ff042e.mp4) | [ex1](https://user-images.githubusercontent.com/18285855/203570240-8e8fc966-9dba-4888-8339-f1890f20a003.mp4) | [ex1](https://user-images.githubusercontent.com/18285855/203570564-84e1047b-290a-45f6-8824-ef868d1fac2b.mp4) | [ex1](https://user-images.githubusercontent.com/18285855/203570796-abb2b989-a30c-463d-a91d-877ac13ba549.mp4)
  [ex2](https://user-images.githubusercontent.com/18285855/203569539-447f1820-0020-41a4-b5c9-362bb7fe45a0.mp4) | [ex2](https://user-images.githubusercontent.com/18285855/203569772-30804af4-fb19-42bb-95d6-8c8509ace46c.mp4) | [ex2](https://user-images.githubusercontent.com/18285855/203570260-32474cba-c178-4d26-91ac-cef291e8dab8.mp4) | [ex2](https://user-images.githubusercontent.com/18285855/203570581-0a5d87a4-effb-449c-93a3-f91e78f02dde.mp4) | [ex2](https://user-images.githubusercontent.com/18285855/203570810-e6b85343-6f9f-491b-9362-26503148a627.mp4)
