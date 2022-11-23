@@ -38,7 +38,7 @@ original | proposed | global | TDPSOLA | synthesised but non protected*
  [ex3](https://user-images.githubusercontent.com/18285855/203569593-d8d67f28-460a-42a0-8dd9-039867915082.mp4) | [ex3](https://user-images.githubusercontent.com/18285855/203569793-22f9cca5-308a-40bb-953c-81b644c78c55.mp4) | [ex3](https://user-images.githubusercontent.com/18285855/203570272-5434e8ad-1640-45a2-a690-8028afe7999a.mp4) | [ex3](https://user-images.githubusercontent.com/18285855/203570592-72628802-d061-4409-90aa-f28a1eeef25e.mp4) | [ex3](https://user-images.githubusercontent.com/18285855/203570825-abd69fb1-7018-4bf8-9486-849010e0ee8e.mp4)
  [ex4](https://user-images.githubusercontent.com/18285855/203569648-7be3d50e-b793-49a7-819f-12de6b6e9a59.mp4) | [ex4](https://user-images.githubusercontent.com/18285855/203569808-5d15970a-6ecf-4ea3-934f-e7a780f71b17.mp4) | [ex4](https://user-images.githubusercontent.com/18285855/203570288-d1909e45-ea46-4696-bda1-7a204f75fc6d.mp4) | [ex4](https://user-images.githubusercontent.com/18285855/203570605-084cf740-4bac-4d68-aaac-e5812b9f9ea1.mp4) | [ex4](https://user-images.githubusercontent.com/18285855/203570837-b8d14511-e96e-4d0c-8a72-dd86de8c328b.mp4)
 
-*The speech as been forward into the proposed system but without the protectection applied (i.e. without xvector and pitch transformation)
+*The speech as been fed into the proposed system but without the protectection applied (i.e. without xvector and pitch transformation)
 
 The original audio samples are from [LibriSpeech](https://www.openslr.org/12) under Attribution 4.0 International (CC BY 4.0) license.
 ##
