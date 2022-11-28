@@ -1,0 +1,12 @@
+*.tar.gz
+*~
+pretrained_models_anon_xv/output/*
+pretrained_models_anon_xv/HiFi-GAN/do_*
+pretrained_models_anon_xv/HiFi-GAN/g_*
+pretrained_models_anon_xv/ECAPA*
+pretrained_models_anon_xv/HuBERT*
+pretrained_models_anon_xv/hubert*
+env.sh
+run_synth*
+xv_disentanglement_model/*
+*__pycache__*
