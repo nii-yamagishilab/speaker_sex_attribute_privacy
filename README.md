@@ -1,6 +1,7 @@
 ## 
 This is an implementation of the papers:
-Hiding speaker's sex in speech using zero-evidence speaker representation in an analysis/synthesis pipeline
+[Hiding speaker's sex in speech using zero-evidence speaker representation in an analysis/synthesis pipeline](https://arxiv.org/abs/2211.16065)
+
 
 The authors are Paul-Gauthier Noé, Xiaoxiao Miao, Xin Wang, Junichi Yamagishi, Jean-François Bonastre, Driss Matrouf
 
