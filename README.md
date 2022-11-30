@@ -16,7 +16,7 @@ This code is adapted from [SSL-SAS](https://github.com/nii-yamagishilab/SSL-SAS/
 
 - Train a HiFi-GAN using [LibriTTS-100h](https://www.openslr.org/60/) on your own: `bash scripts/scripts/train_hifigan.sh`
 
-Pretrained models can be found here: Coming soon
+Pretrained models can be found here: https://zenodo.org/record/7347685#.Y4cS0i8Rp0t
 
 
 ## Dependencies
